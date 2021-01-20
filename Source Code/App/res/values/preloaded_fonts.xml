@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/assistant</item>
+        <item>@font/assistant_extralight</item>
+        <item>@font/assistant_semibold</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/gudea</item>
+        <item>@font/gudea_bold</item>
+        <item>@font/pacifico</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/suez_one</item>
+    </array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/menu_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"
+            app:showAsAction="always"/>
+
+            <item
+                android:id="@+id/menu_dates"
+                android:icon="@drawable/ic_date"
+                android:title="DATE"
+                app:showAsAction="always"/>
+            <item
+                android:id="@+id/menu_profit"
+                android:icon="@drawable/ic_money"
+                android:title="PROFIT"
+                app:showAsAction="always"/>
+            <item
+                android:id="@+id/menu_pending_payment"
+                android:icon="@drawable/ic_time"
+                android:title="Dews"
+                app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_DUMMY"
+        android:title=""
+        app:showAsAction="always"/>
+
+
+
+
+</menu>

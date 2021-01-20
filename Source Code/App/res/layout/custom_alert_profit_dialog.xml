@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingBottom="10dp"
+        app:cardCornerRadius="8dp">
+        <RelativeLayout
+            android:padding="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btn_okay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OKAY"
+                android:backgroundTint="#DD505050"
+                app:cornerRadius="20dp"/>
+            <TextView
+                android:id="@+id/timer_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/date_circle"
+                android:text="5"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:layout_alignParentEnd="true"
+                android:textColor="#FFFFFF"/>
+
+            <TextView
+                android:layout_marginTop="3dp"
+                android:layout_below="@id/btn_okay"
+                android:id="@+id/total_buying_price_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TOTAL BUYING PRICE : 25000"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/total_selling_price_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/total_buying_price_tv"
+                android:layout_marginTop="-1dp"
+                android:text="TOTAL SELLING PRICE : 29000"
+                android:textSize="14sp" />
+
+            <View
+                android:id="@+id/upperDividerView"
+                android:layout_width="match_parent"
+                android:layout_marginTop="4dp"
+                android:layout_height="1dp"
+                android:layout_marginRight="5dp"
+                android:layout_below="@id/total_selling_price_tv"
+                android:background="#2E2D2D"/>
+            <TextView
+                android:id="@+id/total_profit_tv"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="3dp"
+                android:layout_height="wrap_content"
+                android:text="TOTAL PROFIT : 25000"
+                android:layout_below="@id/upperDividerView"
+                android:textSize="14sp"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

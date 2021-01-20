@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingBottom="10dp"
+        app:cardCornerRadius="8dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="15dp">
+
+            <ImageView
+                android:id="@+id/productImageAlert"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/image_not_found" />
+
+            <TextView
+                android:id="@+id/userNameTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/roboto_medium"
+                android:gravity="center"
+                android:text="Bhumi Padaya"
+                android:textColor="@color/design_default_color_on_secondary"
+                android:textSize="18sp" />
+            <TextView
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:id="@+id/single_user_payment_mode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="COD"
+                android:textColor="#474646"
+                android:gravity="right"
+                android:paddingEnd="18dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/sellingPrice_Text"
+                    android:paddingStart="5dp"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Selling Price :  "/>
+                <TextView
+                    android:id="@+id/selliingPrice_alert"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="400"
+                    android:layout_toEndOf="@id/sellingPrice_Text"/>
+                <TextView
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:id="@+id/productName_alert"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Kurti"
+                    android:textColor="#3E3E3E"
+                    android:layout_alignParentEnd="true"
+                    android:paddingEnd="20dp"/>
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:textSize="?android:textAppearanceSmall"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:textSize="15sp"
+                    android:id="@+id/buyingPrice_Text"
+                    android:paddingStart="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Buying Price :  "/>
+                <TextView
+                    android:id="@+id/buyingPrice_alert"
+                    android:textSize="15sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="400"
+                    android:layout_toRightOf="@id/buyingPrice_Text"/>
+                <TextView
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:id="@+id/single_user_dews"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dews : 20"
+                    android:textColor="#E53935"
+                    android:layout_alignParentEnd="true"
+                    android:paddingEnd="20dp"/>
+            </RelativeLayout>
+            <View
+                android:layout_marginTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#777676"/>
+            <TextView
+                android:paddingStart="6dp"
+                android:layout_marginTop="1dp"
+                android:id="@+id/profit_alert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:text="Profit  :   0"/>
+            <View
+                android:layout_marginTop="1dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#777676"/>
+            <RelativeLayout
+                android:layout_marginTop="7dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <Button
+                    android:id="@+id/btnCancel_alert"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6dp"
+                    android:backgroundTint="#595959"
+                    android:text="@android:string/cancel"
+                    app:cornerRadius="20dp" />
+                <LinearLayout
+                    android:layout_alignParentRight="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnUpdate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="6dp"
+                        android:backgroundTint="@color/icon"
+                        android:text="Update"
+                        app:cornerRadius="20dp" />
+
+                    <Button
+                        android:id="@+id/btnDelete_alert"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="4dp"
+                        android:backgroundTint="@color/action_mode_color"
+                        android:text="Delete"
+                        app:cornerRadius="20dp" />
+                </LinearLayout>
+            </RelativeLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
