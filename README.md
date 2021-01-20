@@ -1,5 +1,5 @@
 ## Store-It
-  Store It helps to keep the track of the sell products, the bussiness profit and dews of a client and all this can be done while being OFFLINE.
+  Store It helps to keep track of sell products, bussiness profits and dews of a client and all this can be done while being OFFLINE.
   
   ## About Store_it
   Store It  App is a multi-supported is multi-support sells tracker app for new business to keep track of sells. With this app you can instantly view a client and know all the product he/she brought , check for pending payments  of client, get date wise sort of when which product was brought and by whom, Know how much total profit you made with which client helped you generated highest profit. Easy solution to keep all your sells work flow smooth😊
@@ -16,12 +16,12 @@
  ## Main Dashboard
  <img src="Images/home.jpg" width="150">  <img src="Images/addClient.jpg" width="150">
  
- When you enter the app home is empty, But you can add in clients to Maintain your track records with you OFFLINE which can be accessible 24/7.  In order to add them Click on the bottom button and that will lead you towards Adding new Client. 
+ When you enter app,home is empty, But you can add-in clients to Maintain your track records with you OFFLINE which can be accessible 24/7.  In order to add them Click on the bottom button and that will lead you towards Adding new Client. 
  
 ## View Client Profile
 <img src="Images/ViewProduct.jpg" width="150">  <img src="Images/deleteProduct.jpg" width="150">
 
-User can get a quick glance on Client buy history and users own profit too, Also User can check for a particular product in client profile.
+User can get a quick glance on Client buy history and users own profit too, Also User can search for a particular product in client profile.
 If any pending payments are there it will be notified, and if that product is return then user can also delete the product by simply long pressing on that product image and then deleting it.
 
  ## Backup-Restore 
