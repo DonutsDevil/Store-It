@@ -1,8 +1,8 @@
 ## Store-It
-  Store It helps to keep track of sell products, bussiness profits and dues of a client and all this can be done while being OFFLINE.
+  Store It helps to keep track of sold products, bussiness profits and dues of a client and all this can be done while being OFFLINE.
   
   ## About Store_it
-  Store It  App is a multi-supported sells tracker app for new business to keep track of sells. With this app you can instantly view a client and know all the product he/she bought , check for pending payments of client, Get sorted list according to the date., Know how much total profit you made and which client helped you generated highest profit. Easy solution to keep all your Sales work flow smooth😊
+  Store It App is a multi-supported sales tracker app for new businesses to keep track of sales. With this app you can instantly view a client and know all the product he/she bought, check for pending payments of the client, Get a sorted list according to the date., Know how much total profit you made and which client helped you generated the highest profit. An easy solution to keep all your Sales workflow smooth😊
 
  🔥You won't regret choosing this amazing Store It！
 1. Save Client bought products. 🎬
