@@ -1,14 +1,14 @@
 ## Store-It
-  Store It helps to keep track of sell products, bussiness profits and dews of a client and all this can be done while being OFFLINE.
+  Store It helps to keep track of sell products, bussiness profits and dues of a client and all this can be done while being OFFLINE.
   
   ## About Store_it
-  Store It  App is a multi-supported is multi-support sells tracker app for new business to keep track of sells. With this app you can instantly view a client and know all the product he/she brought , check for pending payments  of client, get date wise sort of when which product was brought and by whom, Know how much total profit you made with which client helped you generated highest profit. Easy solution to keep all your sells work flow smooth😊
+  Store It  App is a multi-supported sells tracker app for new business to keep track of sells. With this app you can instantly view a client and know all the product he/she bought , check for pending payments of client, Get sorted list according to the date., Know how much total profit you made and which client helped you generated highest profit. Easy solution to keep all your Sales work flow smooth😊
 
  🔥You won't regret choosing this amazing Store It！
-1. Save Client brought products. 🎬
+1. Save Client bought products. 🎬
 2. Fully OFFLINE access anytime. ⌚
-3. Check payment dews with a single click. ⌛
-4. Get detail information of when a product was purchased and how. 🔥
+3. Check payment dues with a single click. ⌛
+4. Get detailed information of When A product was purchased and How. 🔥
 5. Get date wise information of sales . ⚡
 6. Know total profit your business made with just single click  ⚡
 
@@ -16,7 +16,7 @@
  ## Main Dashboard
  <img src="Images/home.jpg" width="150">  <img src="Images/addClient.jpg" width="150">
  
- When you enter app,home is empty, But you can add-in clients to Maintain your track records with you OFFLINE which can be accessible 24/7.  In order to add them Click on the bottom button and that will lead you towards Adding new Client. 
+ When you enter app,home screen  is empty, But you can add-in clients to Maintain your track records with you being OFFLINE Hence accessible 24/7. In order to add them Click on the bottom button and that will lead you towards Adding new Client. 
  
 ## View Client Profile
 <img src="Images/ViewProduct.jpg" width="150">  <img src="Images/deleteProduct.jpg" width="150">
@@ -33,8 +33,7 @@ Remmeber when backing up the data the previous backup data is deleted and replac
  ## Date Checks 
  <img src="Images/dateView.jpg" width="150">  <img src="Images/dates.jpg" width="150">
  
- User can keep track of which product is sold when and to whom by clicking on the date tab below besides the home tab, Here days are show in the circle and months and year are shown as text on screen.
- To view the product details user shoudl long press on a particular product name to view its details.
+ User can keep track of which product is sold when and to whom by clicking on the date tab below besides the home tab, Here days are show in the circle and months and year are shown as text on screen. To view the product details user should long press on  particular product name to view its details.
  
  ## Profit View
  <img src="Images/profitView.jpg" width="150">
@@ -44,8 +43,8 @@ Remmeber when backing up the data the previous backup data is deleted and replac
  ## Pending Payments
  <img src="Images/dewsView.jpg" width="150">
  
- User can know which client payment is remaning and according update or delete the product details. Here a list is shown with client who as maximum payment left to the lowest if any.
+ User can know which client payment is remaning and accordingly update or delete the product details. Here a list is shown with client who as maximum payment left to the lowest if any.
 ## ❗ Disclaimer:
 ❗ Store It  will not collect any personal or private information.  
 ❗ Store It is an independent one and is not affiliated with any 3rd Party.  
-❗ Store It didn't use to clone or hack anything.  
+❗ Store It doesn't clone or hack anything.  
