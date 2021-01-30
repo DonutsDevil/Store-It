@@ -1,5 +1,5 @@
 ## Store-It
-  Store It helps to keep track of sold products, bussiness profits and dues of a client and all this can be done while being OFFLINE.
+  Store It helps to keep track of sold products, bussiness profits and dues of a client and all this can be done while being OFFLINE.  
   [Google Play Store Link](https://play.google.com/store/apps/details?id=com.swapnil.storeit)
   
   
