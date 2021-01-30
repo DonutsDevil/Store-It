@@ -1,5 +1,7 @@
 ## Store-It
   Store It helps to keep track of sold products, bussiness profits and dues of a client and all this can be done while being OFFLINE.
+  [Google Play Store Link](https://play.google.com/store/apps/details?id=com.swapnil.storeit)
+  
   
   ## About Store_it
   Store It App is a multi-supported sales tracker app for new businesses to keep track of sales. With this app you can instantly view a client and know all the product he/she bought, check for pending payments of the client, Get a sorted list according to the date., Know how much total profit you made and which client helped you generated the highest profit. An easy solution to keep all your Sales workflow smooth😊
